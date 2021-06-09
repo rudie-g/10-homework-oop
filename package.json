@@ -1,0 +1,24 @@
+{
+    "name": "10-homework-oop",
+    "version": "1.0.0",
+    "description": "Homework for Week 10: OOP",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com:rudie-g/10-homework-oop.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "inquirer": "^6.5.2",
+        "jest": "^27.0.4"
+    },
+    "bugs": {
+        "url": "https://github.com/rudie-g/10-homework-oop/issues"
+    },
+    "homepage": "https://github.com/rudie-g/10-homework-oop#readme"
+}
