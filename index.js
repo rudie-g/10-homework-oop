@@ -216,7 +216,6 @@ function addMember(member) {
           <div>
             <span class="">${role}</span>
             <ul class="">
-            <li class=""><h4>${name}</h4></li>
             <li class=""><bold>ID:</bold> <br> ${id}</li>
             <li class=""><bold>Email Address:</bold><br> <a href="mailto:${email}" target="_blank">${email}</a></li>
             <li class=""><bold>Office Number:</bold><br> <a href="tel:${officeNumber}" target="_blank">${officeNumber}</a></li>
@@ -232,7 +231,6 @@ function addMember(member) {
             <div>
               <span class="">${role}</span>
               <ul class="">
-              <li class=""><h4>${name}</h4></li>
               <li class=""><bold>ID:</bold><br>  ${id}</li>
               <li class=""><bold>Email Address:</bold><br>  <a href="mailto:${email}" target="_blank">${email}</a></li>
               <li class=""><bold>School:</bold><br>  ${school}</li>
@@ -249,7 +247,6 @@ function addMember(member) {
             <div>
               <span class="">${role}</span>
               <ul class="">
-              <li class=""><h4>${name}</h4></li>
               <li class=""><bold>ID:</bold><br>  ${id}</li>
               <li class=""><bold>Email Address:</bold><br>  <a href="mailto:${email}" target="_blank">${email}</a></li>
               <li class=""><bold>Github:</bold><br>  <a href="https://github.com/${github}" target="_blank">${github}</a></li>
