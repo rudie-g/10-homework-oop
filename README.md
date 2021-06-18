@@ -30,7 +30,8 @@ Rudie G (Rauol Moore) - Sole Author 📜
   
 ## Screenshot & Video📸 
 ---
-[![TeamProfilegenerate Demo](./Assets/readmeGeneratorScreenshot.png)](https://drive.google.com/file/d/157CdYTW-y9jK9MDY0pgHgwcamwdEeBvd/view?usp=sharing "TeamProfilegenerate Demo")
+(click on screenshot to see video)
+[![TeamProfilegenerate Demo](./Assets/screenshot.png)](https://drive.google.com/file/d/157CdYTW-y9jK9MDY0pgHgwcamwdEeBvd/view?usp=sharing "TeamProfilegenerate Demo")
 <br />
 <br />
 
