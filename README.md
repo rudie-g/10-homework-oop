@@ -28,10 +28,9 @@ In order to use the app, open the command prompt and navigate it to the applicat
 ---
 Rudie G (Rauol Moore) - Sole Author 📜
   
-## Screenshot 📸 
+## Screenshot & Video📸 
 ---
-undefined
-<img alt="screenshot of finished html file" src="" width="150" height="150"> |
+[![TeamProfilegenerate Demo](./Assets/readmeGeneratorScreenshot.png)](https://drive.google.com/file/d/157CdYTW-y9jK9MDY0pgHgwcamwdEeBvd/view?usp=sharing "TeamProfilegenerate Demo")
 <br />
 <br />
 
